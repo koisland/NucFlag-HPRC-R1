@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python==3.12.0
+  - samtools
+  - bigtools
+  - pip
+  - pip:
+    - nucflag==0.3.4
