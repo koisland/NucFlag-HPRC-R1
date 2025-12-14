@@ -1,4 +1,4 @@
-# HPRC Year 1 NucFlag
+# HPRC Release 1 NucFlag
 For comparison against HPRC release 2.
 
 
